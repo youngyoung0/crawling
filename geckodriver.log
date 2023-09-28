@@ -1,0 +1,184 @@
+1695911507850	geckodriver	INFO	Listening on 127.0.0.1:65043
+1695911507918	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofileimNy4m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695911508243	Marionette	INFO	Marionette enabled
+2023-09-28 23:31:48.370 plugin-container[17235:5510673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:31:48.370 plugin-container[17235:5510673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1695911508471	Marionette	INFO	Listening on port 65082
+WebDriver BiDi listening on ws://127.0.0.1:65044
+Read port: 65082
+2023-09-28 23:31:48.537 plugin-container[17235:5510673] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:31:48.537 plugin-container[17235:5510673] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:31:48.537 plugin-container[17235:5510677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:31:48.537 plugin-container[17235:5510677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695911508644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:65044/devtools/browser/d9887b3a-f274-4884-83e1-267939882a10
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695911519295	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: resource://gre/modules/Troubleshoot.sys.mjs, line 710: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.sys.mjs, line 710: WebGL context was lost.
+2023-09-28 23:33:25.631 firefox[17234:5510587] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1695912351115	geckodriver	INFO	Listening on 127.0.0.1:52505
+1695912351644	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofileZWkGkr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695912351897	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+2023-09-28 23:45:51.994 plugin-container[17964:5522215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:45:51.994 plugin-container[17964:5522215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:45:51.997 plugin-container[17964:5522215] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:45:51.998 plugin-container[17964:5522215] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:45:51.998 plugin-container[17964:5522218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:45:51.998 plugin-container[17964:5522218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695912352018	Marionette	INFO	Listening on port 52517
+WebDriver BiDi listening on ws://127.0.0.1:52506
+Read port: 52517
+1695912352146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:52506/devtools/browser/332176ca-8d1e-469d-af64-7d995116a5cf
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695912363194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1695912652063	geckodriver	INFO	Listening on 127.0.0.1:53970
+1695912652557	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofile8BLhWY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695912666592	Marionette	INFO	Marionette enabled
+2023-09-28 23:51:06.878 plugin-container[18157:5526396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:51:06.892 plugin-container[18157:5526396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+1695912666984	Marionette	INFO	Listening on port 54051
+WebDriver BiDi listening on ws://127.0.0.1:53971
+2023-09-28 23:51:07.002 plugin-container[18157:5526396] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:51:07.002 plugin-container[18157:5526396] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:51:07.009 plugin-container[18157:5526439] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:51:07.009 plugin-container[18157:5526439] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 54051
+1695912667223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53971/devtools/browser/8675508e-8d20-44eb-b535-ef0389057b61
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695912682360	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1695912690290	Marionette	INFO	Stopped listening on port 65082
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695912692035	Marionette	INFO	Stopped listening on port 52517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695912694537	Marionette	INFO	Stopped listening on port 54051
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695912765615	geckodriver	INFO	Listening on 127.0.0.1:54605
+1695912766140	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofilez2l7Je"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695912766882	Marionette	INFO	Marionette enabled
+2023-09-28 23:52:47.201 plugin-container[18248:5528040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:52:47.201 plugin-container[18248:5528040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+2023-09-28 23:52:47.259 plugin-container[18248:5528040] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:52:47.259 plugin-container[18248:5528040] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:52:47.259 plugin-container[18248:5528044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:52:47.259 plugin-container[18248:5528044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695912767287	Marionette	INFO	Listening on port 54621
+WebDriver BiDi listening on ws://127.0.0.1:54606
+Read port: 54621
+1695912767599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54606/devtools/browser/a2d7ac78-b444-4a02-bab5-783fb148fbc6
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695912782350	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1695912897144	geckodriver	INFO	Listening on 127.0.0.1:55333
+1695912897671	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofileQbTS9G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695912898158	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+2023-09-28 23:54:58.312 plugin-container[18340:5530059] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:54:58.313 plugin-container[18340:5530059] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:54:58.316 plugin-container[18340:5530059] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:54:58.316 plugin-container[18340:5530059] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:54:58.316 plugin-container[18340:5530063] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:54:58.316 plugin-container[18340:5530063] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695912898357	Marionette	INFO	Listening on port 55350
+WebDriver BiDi listening on ws://127.0.0.1:55334
+Read port: 55350
+1695912898659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55334/devtools/browser/deca53e8-682b-4849-82da-74785c75a78b
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695912912238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1695912931073	geckodriver	INFO	Listening on 127.0.0.1:55647
+1695912931588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofileMcwOGz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695912932088	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+2023-09-28 23:55:32.259 plugin-container[18419:5531334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:55:32.260 plugin-container[18419:5531334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:55:32.278 plugin-container[18419:5531334] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:55:32.278 plugin-container[18419:5531334] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-28 23:55:32.278 plugin-container[18419:5531340] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-28 23:55:32.278 plugin-container[18419:5531340] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695912932286	Marionette	INFO	Listening on port 55659
+WebDriver BiDi listening on ws://127.0.0.1:55648
+Read port: 55659
+1695912932534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55648/devtools/browser/3138150e-5849-4436-ac97-6d1ce2503d64
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695912943597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1695912949161	Marionette	INFO	Stopped listening on port 54621
+1695912950916	Marionette	INFO	Stopped listening on port 55350
+1695912953032	Marionette	INFO	Stopped listening on port 55659
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695940279030	geckodriver	INFO	Listening on 127.0.0.1:58335
+1695940279551	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1j/t70rpthn33g7hv1386j05fnw0000gn/T/rust_mozprofileVoeYmj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695940279874	Marionette	INFO	Marionette enabled
+2023-09-29 07:31:19.980 plugin-container[18830:5544778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-29 07:31:19.980 plugin-container[18830:5544778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-29 07:31:19.987 plugin-container[18830:5544778] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-29 07:31:19.987 plugin-container[18830:5544778] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-29 07:31:19.987 plugin-container[18830:5544781] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-29 07:31:19.987 plugin-container[18830:5544781] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -disable-quic\n"
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+1695940280081	Marionette	INFO	Listening on port 58364
+WebDriver BiDi listening on ws://127.0.0.1:58336
+Read port: 58364
+1695940280327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:58336/devtools/browser/b1ede613-7839-4942-9c2d-d7fd08bfae64
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: unreachable code after return statement
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.coupang.com/EIml0ikfe/jGr5gYuae/7a2k6/fTPI/Or1uSkLGVXf51D/YG9R/DxAu/CTUxMGwB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:851:3
+
+console.error: "Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null\nGeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.sys.mjs:851:3\n"
+2023-09-29 07:31:32.304 firefox[18828:5544693] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+1695944632222	Marionette	INFO	Stopped listening on port 58364
